@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/RolandWarburton/lerna.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rolandwarburton"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
