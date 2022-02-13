@@ -1,6 +1,6 @@
 {
   "name": "@rolandwarburton/cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "description": "> TODO: description",
   "author": "RolandWarburton <warburtonroland@gmail.com>",
@@ -15,7 +15,7 @@
     "lib"
   ],
   "dependencies": {
-    "@rolandwarburton/core": "^0.0.1"
+    "@rolandwarburton/core": "^0.0.2"
   },
   "repository": {
     "type": "git",
