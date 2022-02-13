@@ -1,7 +1,6 @@
-'use strict';
-
-module.exports = cli;
-
+import { core } from "@rolandwarburton/core";
 function cli() {
-    // TODO
+  core();
 }
+
+cli();
